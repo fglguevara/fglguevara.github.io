@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -309,3 +310,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+=======
+theme: jekyll-theme-leap-day
+title: Welcome to my Web Page
+description: Feel free to bookmark this to keep an eye on my project updates
+>>>>>>> 2b744308a62cd54d4a3c535c07d94e2bf2ebbad5
