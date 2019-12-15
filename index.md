@@ -2,6 +2,8 @@
 
 ## [Ficha personal](http://www.upv.es/ficha-personal/fgonzal)
 
+### [29th International Conference on Information Systems Development, Valencia, Septermber 9-11, 2020 ](http://isd2020.webs.upv.es)
+
 ## Contenidos docentes 
 
 [Enlace a ejercicios UDES-UPV-2019](https://www.evernote.com/l/ADRo1I-SdzVAnrEfpuylvhdFCiVG7bVy68Y)
