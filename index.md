@@ -1,8 +1,7 @@
-## Contenidos docentes 
-
-![Exlibris](Rana.png)
-
 [Ficha personal](http://www.upv.es/ficha-personal/fgonzal)
+
+![Exlibris](Rana.png){: width=50 height=50 style="float:right; padding:16px"}
+## Contenidos docentes 
 
 [Enlace a ejercicios UDES-UPV-2019](https://www.evernote.com/l/ADRo1I-SdzVAnrEfpuylvhdFCiVG7bVy68Y)
 
