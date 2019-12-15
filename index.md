@@ -1,6 +1,6 @@
 ![Exlibris](Rana.png){: width=40 height=40 style="float:right; padding:8px"}
 
-###[Ficha personal](http://www.upv.es/ficha-personal/fgonzal)
+### [Ficha personal](http://www.upv.es/ficha-personal/fgonzal)
 
 ## Contenidos docentes 
 
