@@ -1,9 +1,9 @@
 ![Exlibris](Rana.png){: width=30 height=30 style="float:right; padding:8px"}
 
 ## [Ficha personal](http://www.upv.es/ficha-personal/fgonzal)
-Professor - Universitat Politécnica de València
-Department of Business Management
-Higher Technical School of Telecommunications Engineering.
+Professor - Universitat Politécnica de València. Department of Business Management    
+Higher Technical School of Telecommunications Engineering.   
+
 Departamento de Organización de Empresas (edificio 7D, V.7D.5.019)
 Camino de Vera s/n 46022 Valencia (SPAIN)
 Tel. 86 387 70 00 Ext. 76823
