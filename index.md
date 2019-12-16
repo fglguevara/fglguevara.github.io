@@ -1,6 +1,6 @@
 ![Exlibris](Rana.png){: width=30 height=30 style="float:right; padding:8px"}
 
-## [Ficha personal](http://www.upv.es/ficha-personal/fgonzal)
+## [Personal Record](http://www.upv.es/ficha-personal/fgonzal)
 *Professor - Higher Technical School of Telecommunications Engineering.*    
 
 Department of Business Management/Departamento de Organización de Empresas (edificio 7D, V.7D.5.019)    
