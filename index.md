@@ -1,4 +1,4 @@
-![Exlibris](Rana.png){: width=30 height=30 style="float:right; padding:8px"}
+![Exlibris](Rana.png){: width=35 height=35 style="float:right; padding:8px"}
 
 ## [Personal Record](http://www.upv.es/ficha-personal/fgonzal)
 Professor - Higher Technical School of Telecommunications Engineering.    
