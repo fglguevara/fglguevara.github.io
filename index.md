@@ -1,5 +1,4 @@
 ![Exlibris](Rana.png){: width=35 height=35 style="float:right; padding:8px"}
-
 ## [Personal Record](http://www.upv.es/ficha-personal/fgonzal)
 * [edX Bio](https://www.edx.org/es/bio/fernando-gonzalez-ladron-de-guevara)
 * [Technical School of Telecommunications Engineering](https://www.etsit.upv.es)
