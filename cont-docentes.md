@@ -3,6 +3,13 @@
 
 [The EU FINCODA project: 2015-2017](https://www.fincoda.eu)
 
-[Enlace a ejercicios UDES-UPV-2019](https://www.evernote.com/l/ADRo1I-SdzVAnrEfpuylvhdFCiVG7bVy68Y)
+- Escuela Técnica Superior de Ingenieros de Telecomunicación.    
+    - [Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación.](http://www.upv.es/titulaciones/GITTEL/indexc.html) [Fundamentos de Organización de Empresas](http://www.upv.es/titulaciones/GITTEL/menu_1013789c.html)    
+    - Máster Universitario en Ingenería de Telecomunicación: Services Marketing
 
-[2019-Senior Management Groups](SM_2019_groups.md)
+- Facultad de Administración de Empresas.    
+    - MUGEPS-Master Universitario en Gestión de Empresas y Servicios
+        - [2019-Senior Management Groups](SM_2019_groups.md)
+
+- Universidad de Santander (UDES-Colombia)
+[Enlace a ejercicios UDES-UPV-2019](https://www.evernote.com/l/ADRo1I-SdzVAnrEfpuylvhdFCiVG7bVy68Y)
