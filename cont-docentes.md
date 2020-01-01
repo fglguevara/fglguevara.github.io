@@ -14,4 +14,4 @@
      
      
 
-### ![UDES](UDES.png){: height="115px" }&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; [UDES (Colombia)](cont-docentes-udes.md)    
+### ![UDES](UDES.png){: height="120px" }&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; [UDES (Colombia)](cont-docentes-udes.md)    
