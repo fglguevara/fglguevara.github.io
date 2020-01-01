@@ -3,11 +3,7 @@
 
 #### [The EU FINCODA project: 2015-2017](https://www.fincoda.eu)
 
-### [UPV-Escuela Técnica Superior de Ingenieros de Telecomunicación.](https://www.etsit.upv.es)    
-- [Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación.](http://www.upv.es/titulaciones/GITTEL/indexc.html)    
-  - [*Fundamentos de Organización de Empresas*](http://www.upv.es/titulaciones/GITTEL/menu_1013789c.html)    
-- [Máster Universitario en Ingenería de Telecomunicación.](http://www.upv.es/titulaciones/MUITEL/indexc.html)
-  - [*Services Marketing*](http://www.upv.es/titulaciones/MUITEL/menu_1015031c.html)
+### [UPV-Escuela Técnica Superior de Ingenieros de Telecomunicación.](https://www.etsit.upv.es)(cont-docentes-etsit.md)    
 
 ### [UPV-Facultad de Administración de Empresas.](http://www.upv.es/entidades/ADE/)    
 - [MUGEPS-Master Universitario en Gestión de Empresas y Servicios](http://www.upv.es/entidades/ADE/infoweb/fade/info/637617normalc.html    )
