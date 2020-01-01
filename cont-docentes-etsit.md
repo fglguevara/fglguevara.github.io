@@ -1,3 +1,4 @@
+![GITST](gist.jpg){:width="290px" }
 ### [Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación.](http://www.upv.es/titulaciones/GITTEL/indexc.html)    
   - [*Fundamentos de Organización de Empresas*](http://www.upv.es/titulaciones/GITTEL/menu_1013789c.html)    
 
