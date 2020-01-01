@@ -2,13 +2,14 @@
 
 | Item | Description | Number |
 |:--- | :---: | ---: |
-| Bottle | Plastic recipient | 3 |    
+| Bottle | Plastic recipient | 3 |
 | *Título* | Descripción de título | solo uno|
 | ![ETSIT](telecom.png){:width="70px" }| Intentando colocar una imagen| Una rana |
 |<sup>superscript</sup> text.| <sub>subscript</sub> text.
-    |~~strikethroug text~~|
+|~~strikethroug text~~|
 |&#x1F34E; Red apple|&#x1F53A;|&#x1F499;|
 |Columna con varias líneas|&#x1F34E;|Primera línea <br> Segunda línea <br>|
+
 <!-- F:  2020-01-01 23   -->    
 
 ```diff
