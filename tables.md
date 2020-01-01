@@ -7,7 +7,7 @@
 | ![ETSIT](telecom.png){:width="70px" }| Intentando colocar una imagen| Una rana |
 |This is some <sup>superscript</sup> text.| This is some <sub>subscript</sub> text.
     |~~This is strikethroug text~~|
-|&#x1F34E;|&#x1F53A;|&#x1F499;|
+|&#x1F34E; Red apple|&#x1F53A;|&#x1F499;|
 
 <!-- F:  2020-01-01 23   -->    
 
@@ -36,4 +36,5 @@ SMALL BLUE DIAMOND (&#x1F539;): 🔹
 UP-POINTING RED TRIANGLE (&#x1F53A;): 🔺
 DOWN-POINTING RED TRIANGLE (&#x1F53B;): 🔻
 UP-POINTING SMALL RED TRIANGLE (&#x1F53C;): 🔼
-DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
+DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽  
+[More unicode symbols](https://apps.timwhitlock.info/emoji/tables/unicode)
