@@ -3,15 +3,15 @@
 
 #### [The EU FINCODA project: 2015-2017](https://www.fincoda.eu)
 
-### [UPV-ETSIT](cont-docentes-etsit.md) ![ETSIT](telecom.png){:width="100px" style="float:right"}    
+### [UPV-ETSIT](cont-docentes-etsit.md) ![ETSIT](telecom.png){:width="110px" style="float:right"}    
 
      
      
 
-### [UPV-FADE](cont-docentes-fade.md) ![FADE](fade.png){: width="100px" style="float:right"}    
+### [UPV-FADE](cont-docentes-fade.md) ![FADE](fade.png){: width="110px" style="float:right"}    
 
      
      
      
-
+- 
 ### [Universidad de Santander (UDES-Colombia)](cont-docentes-udes.md)    
