@@ -8,7 +8,7 @@
      
      
 
-### ![FADE](fade.png){: width="130px" }&nbsp;+        [UPV-FADE](cont-docentes-fade.md)     
+### ![FADE](fade.png){: width="130px" }&nbsp; &nbsp; &nbsp;       [UPV-FADE](cont-docentes-fade.md)     
 
      
      
