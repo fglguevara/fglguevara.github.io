@@ -3,8 +3,8 @@
 
 #### [The EU FINCODA project: 2015-2017](https://www.fincoda.eu)
 ![ETSIT](telecom.png){: width=35 height=35 style="float:right; padding:7px"}
-### [UPV-Escuela Técnica Superior de Ingenieros de Telecomunicación.](cont-docentes-etsit.md)    
+### [UPV-Escuela Técnica Superior de Ingenieros de Telecomunicación](cont-docentes-etsit.md)    
 ![FADE](fade.png){: width=35 height=35 style="float:right; padding:7px"}
-### [UPV-Facultad de Administración de Empresas.](cont-docentes-fade.md)    
+### [UPV-Facultad de Administración de Empresas](cont-docentes-fade.md)    
 
 ### [Universidad de Santander (UDES-Colombia)](cont-docentes-udes.md)    
