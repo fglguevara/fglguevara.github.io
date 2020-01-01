@@ -7,7 +7,7 @@
 
 
 ## Research
-![isd](isd_v.png){:width="190px" }     
+&nbsp; &nbsp;&nbsp; &nbsp;![isd](isd_v.png){:width="150px" }     
 * #### [29th International Conference on Information Systems Development, Valencia, September 9-11, 2020 ](http://isd2020.webs.upv.es)
 
 * [Papers](https://scholar.google.com/citations?user=ZwUFeFAAAAAJ&hl=en)
