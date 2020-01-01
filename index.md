@@ -5,7 +5,7 @@
 * [LinkedIn](https://www.linkedin.com/in/fglguevara)
 * [Blog](http://dgnd.doe.upv.es/fgonzal/)
 
-
+----- 
 ## Research
 &nbsp; &nbsp;&nbsp; &nbsp;![isd](isd_v2.png){:width="130px" style="padding:-5px"}&nbsp; &nbsp;  [29th Intl. Conference on Information Systems Development, Sept. 9-11, 2020 ](http://isd2020.webs.upv.es)
 
