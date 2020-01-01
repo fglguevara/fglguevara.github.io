@@ -1,4 +1,4 @@
-![Exlibris](Rana2.png){: width=35 height=35 style="float:right; padding:1px"}
+![Exlibris](Rana2.png){: width="90px" style="float:right; padding:25px"}
 ## [Personal Record](http://www.upv.es/ficha-personal/fgonzal)
 * #### [Contact](contact.md)
 * [edX Bio](https://www.edx.org/es/bio/fernando-gonzalez-ladron-de-guevara)
