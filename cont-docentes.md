@@ -14,4 +14,4 @@
      
      
 
-#### ![UDES](UDES.png){: width="140px" }&nbsp; &nbsp; &nbsp; [Universidad de Santander (UDES-Colombia)](cont-docentes-udes.md)    
+#### ![UDES](UDES.png){: height="50px" }&nbsp; &nbsp; &nbsp; [UDES (Colombia)](cont-docentes-udes.md)    
