@@ -5,10 +5,10 @@
 | Bottle | Plastic recipient | 3 |    
 | *Título* | Descripción de título | solo uno|
 | ![ETSIT](telecom.png){:width="70px" }| Intentando colocar una imagen| Una rana |
-|This is some <sup>superscript</sup> text.| This is some <sub>subscript</sub> text.
-    |~~This is strikethroug text~~|
+|<sup>superscript</sup> text.| <sub>subscript</sub> text.
+    |~~strikethroug text~~|
 |&#x1F34E; Red apple|&#x1F53A;|&#x1F499;|
-
+|Columna con varias líneas|&#x1F34E;|Primera línea <br> Segunda línea <br>|
 <!-- F:  2020-01-01 23   -->    
 
 ```diff
