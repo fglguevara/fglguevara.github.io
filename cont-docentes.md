@@ -3,12 +3,12 @@
 
 #### [The EU FINCODA project: 2015-2017](https://www.fincoda.eu)
 
-### [UPV-ETSIT](cont-docentes-etsit.md) ![ETSIT](telecom.png){:width="110px" style="float:right"}    
+### [UPV-ETSIT](cont-docentes-etsit.md) ![ETSIT](telecom.png){:width="120px" }    
 
      
      
 
-### [UPV-FADE](cont-docentes-fade.md) ![FADE](fade.png){: width="110px" }    
+### [UPV-FADE    ](cont-docentes-fade.md) ![FADE](fade.png){: width="110px" }    
 
      
      
