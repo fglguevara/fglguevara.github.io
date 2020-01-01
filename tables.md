@@ -2,4 +2,4 @@
 
 | Item | Description | Number |
 |:--- | :---: | ---: |
-| Bottle | Plastic recipient | 3 |s
+| Bottle | Plastic recipient | 3 |  
