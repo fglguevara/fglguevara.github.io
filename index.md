@@ -3,7 +3,7 @@
 * #### [Contact](contact.md)
 * [edX Bio](https://www.edx.org/es/bio/fernando-gonzalez-ladron-de-guevara)
 * [LinkedIn](https://www.linkedin.com/in/fglguevara)
-* [Blog](https://dgnd.doe.upv.es/fgonzal/)
+* [Blog](http://dgnd.doe.upv.es/fgonzal/)
 
 ----- 
 ## Research
