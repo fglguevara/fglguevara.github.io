@@ -1,4 +1,4 @@
-###### Practising with tables in GitHub Markdown
+##### Practising with tables in GitHub Markdown
 
 | Item | Description | Number |
 |:--- | :---: | ---: |
@@ -9,14 +9,20 @@
 |&#x1F34E; Red apple|&#x1F53A;|&#x1F499;|
 |Columna con varias líneas|&#x1F34E;|Primera línea <br> Segunda línea <br>|
 
-<!-- F:  2020-01-01 23   -->    
+En esta tabla se han incorrporado ajustes a la izquierda, centro y derecha. Algunas celdas están formateadas. Se ha incorporado una imagen y elementos unicode. También se ha añadido una celda que tiene varias líneas. 
+<!-- F:  2020-01-01 23  Este es un comentario incorporado automáticamente con aText -->    
+
+
 
 ```diff
-- text in red
+- text in 
+- se coloca en rojo
 + text in green
++ en verde
 ! text in orange
 # text in gray
 ```
+Lista de símbolos Unicode
 
 RED APPLE (&#x1F34E;): 🍎 
 GREEN APPLE (&#x1F34F;): 🍏  
@@ -28,7 +34,7 @@ GREEN BOOK (&#x1F4D7;): 📗
 BLUE BOOK (&#x1F4D8;): 📘  
 ORANGE BOOK (&#x1F4D9;): 📙  
 LARGE RED CIRCLE (&#x1F534;): 🔴  
-''lrc&#x1F
+
 LARGE BLUE CIRCLE (&#x1F535;): 🔵  
 LARGE ORANGE DIAMOND (&#x1F536;): 🔶 
 LARGE BLUE DIAMOND (&#x1F537;): 🔷  
